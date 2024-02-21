@@ -317,7 +317,7 @@
                             <menuItem title="Bring All to Front" id="LE2-aR-0XJ">
                                 <modifierMask key="keyEquivalentModifierMask"/>
                                 <connections>
-                                    <action selector="arrangeInFront:" target="-1" id="DRN-fu-gQh"/>
+                                    <action selector="pointsangeInFront:" target="-1" id="DRN-fu-gQh"/>
                                 </connections>
                             </menuItem>
                         </items>

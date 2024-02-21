@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "887214630054",
+    "firebase_url": "https://calculator-3c69f-default-rtdb.firebaseio.com",
+    "project_id": "calculator-3c69f",
+    "storage_bucket": "calculator-3c69f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887214630054:android:35c70a1426f8e4507fc067",
+        "android_client_info": {
+          "package_name": "com.ishaan.calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887214630054-0akoutvtj2792kvt8i6hacruphddetss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ishaan.calculator",
+            "certificate_hash": "d8e211874781a48f45b42469e97a0aab23c6bda0"
+          }
+        },
+        {
+          "client_id": "887214630054-1gdi9qu916963jh4et0sgap7pns4e2ai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZHJbB5wXAXhD-CtXEFYJEIJG-EgGGLvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887214630054-1gdi9qu916963jh4et0sgap7pns4e2ai.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "887214630054-2k31q3ugjdbbmb507h74juo2npg1rnt4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.calculator"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

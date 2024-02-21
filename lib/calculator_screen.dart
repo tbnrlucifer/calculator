@@ -1,5 +1,8 @@
+// ignore_for_file: use_key_in_widget_constructors, prefer_const_constructors
+
 import 'package:calculator/button_values.dart';
 import 'package:flutter/material.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 
 class Screen extends StatefulWidget {
   const Screen({super.key});
@@ -9,6 +12,9 @@ class Screen extends StatefulWidget {
 }
 
 class _ScreenState extends State<Screen> {
+  TextEditingController emailController = TextEditingController();
+  TextEditingController passwordController = TextEditingController();
+
   String num1 = "";
   String operator = "";
   String num2 = "";
@@ -48,7 +54,7 @@ class _ScreenState extends State<Screen> {
                     ),
                   )
                   .toList(),
-            )
+            ),
           ],
         ),
       ),
